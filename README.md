@@ -1,6 +1,6 @@
 Name: Bouncing Balls
 
-Description: This is a project for an MIT ccoding course. Balls move around the screen moves between boudaries.
+Description: This is an assignment for an MIT ccoding course. Balls move around the screen moves between boudaries.
 
 Installation: Download all files and double click the "index.html" file to run the website.
 
