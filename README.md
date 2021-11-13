@@ -1,4 +1,4 @@
-Name: Bouncing Balls
+Name: Ball Web Animation
 
 Description: This is an assignment for an MIT ccoding course. Balls move around the screen moves between boudaries.
 
